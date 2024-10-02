@@ -1,5 +1,6 @@
 ## Fabrique numérique du Ministère de la Transition écologique
 
+![Logo Fabnum](logo_fabnum.png)
 <!--
 
 **Here are some ideas to get you started:**
