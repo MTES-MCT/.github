@@ -1,7 +1,7 @@
 ## Fabrique numérique du Ministère de la Transition écologique
 > Incubateur des Startups d'Etat
 
-![Logo Fabnum](logo_fabnum.png)
+![Logo Fabnum](new_logo_fabnum.png)
 <!--
 
 **Here are some ideas to get you started:**
